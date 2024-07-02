@@ -1,0 +1,34 @@
+:root {
+    --red: #ff0000;
+    --orange: #ff9100;
+    --yellow: #fff200;
+    --yellow-green: #d7fc03;
+    --green: #00ff00;
+    --blue: #0000ff;
+    --black: #000000;
+    --gray: #9e9e9e;
+    --white: #ffffff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.battery-top {
+    width: 30px;
+    height: 10px;
+    background: black;
+    margin: 0 auto;
+    border: 3px solid silver;
+}
