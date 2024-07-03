@@ -10,12 +10,12 @@
     --white: #ffffff;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-body{
+body {
     width: 100vw;
     height: 100vh;
     background: black;
@@ -31,4 +31,14 @@ body{
     background: black;
     margin: 0 auto;
     border: 3px solid silver;
+}
+
+.battery-content {
+    width: 100px;
+    height: 200px;
+    background: black;
+    position: relative;
+    margin: 0 auto;
+    border: 3px solid silver;
+    border-radius: 18px;
 }
