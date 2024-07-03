@@ -38,7 +38,7 @@ body {
 .battery-content {
     width: 100px;
     height: 200px;
-    background: black;
+    background: rgb(0, 0, 0);
     position: relative;
     margin: 0 auto;
     border: 3px solid silver;
