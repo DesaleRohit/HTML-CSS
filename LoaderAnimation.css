@@ -11,3 +11,11 @@ body{
     display: flex;
     justify-content: center;
 }
+
+#Loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid #ddd;
+    border-top-color: #333;
+}
