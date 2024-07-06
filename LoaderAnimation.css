@@ -19,3 +19,9 @@ body{
     border: 5px solid #ddd;
     border-top-color: #333;
 }
+
+@keyframes rotate {
+    100%{
+            rotate:360deg;
+    }
+}
